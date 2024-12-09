@@ -1,0 +1,20 @@
+D:\09.12 hw\09.12 hw\bin\Debug\net8.0-windows\09.12 hw.exe
+D:\09.12 hw\09.12 hw\bin\Debug\net8.0-windows\09.12 hw.deps.json
+D:\09.12 hw\09.12 hw\bin\Debug\net8.0-windows\09.12 hw.runtimeconfig.json
+D:\09.12 hw\09.12 hw\bin\Debug\net8.0-windows\09.12 hw.dll
+D:\09.12 hw\09.12 hw\bin\Debug\net8.0-windows\09.12 hw.pdb
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\App.g.cs
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw_MarkupCompile.cache
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw_MarkupCompile.lref
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\MainWindow.baml
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.g.resources
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.AssemblyInfoInputs.cache
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.AssemblyInfo.cs
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.csproj.CoreCompileInputs.cache
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.dll
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\refint\09.12 hw.dll
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.pdb
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\09.12 hw.genruntimeconfig.cache
+D:\09.12 hw\09.12 hw\obj\Debug\net8.0-windows\ref\09.12 hw.dll
